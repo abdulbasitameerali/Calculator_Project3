@@ -5,7 +5,7 @@ class Calculator
     static Void Main()
     {
          Console.WriteLine("Name: YourName, Roll Number: YourRollNumber");
-         subtraction
+         cutting num
          subt = a - b;
 =======
          multiplication
